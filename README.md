@@ -17,12 +17,11 @@
 
 ## About me
 
-I’m a passionate developer who loves building useful, elegant, and scalable solutions. I enjoy working with modern technologies, solving real-world problems, and constantly improving my skills.
+Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) con una sólida base tecnológica y una mentalidad orientada a la resolución de problemas.
 
-- 💻 I like coding, experimenting, and learning new tools
-- 🌱 Currently learning: modern web technologies, backend patterns, and clean architecture
-- 🚀 Interested in: product development, automation, APIs, and UX
-- 🤝 Open to collaborations and interesting projects
+- 💻 Especializado en Redes, Sistemas Operativos y Bases de datos.
+- 🌱 En constante formacion
+- 🤝 Abierto en colaborar en nuevos proyectos
 
 ## Tech stack
 
