@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/andyy67-XD"><img src="https://img.shields.io/badge/GitHub-andyy67--XD-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your_email%40example.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:andy.tq27@gmail.com"><img src="https://img.shields.io/badge/Email-andy.tq27%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/andy-tutistar/"><img src="https://img.shields.io/badge/LinkedIn-Andy+Tutistar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -28,33 +28,9 @@ I’m a passionate developer who loves building useful, elegant, and scalable so
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## GitHub stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andyy67-XD&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyy67-XD&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</div>
-
-## Featured projects
-
-- 🧩 Building cool things and experimenting with ideas
-- 🛠️ Focused on code quality, structure, and maintainability
-- 📦 Enjoys creating projects that are practical and fun to use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Let’s connect
 
