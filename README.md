@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Andy 👋
 
-<!--
-**andyy67-XD/andyy67-XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+Engineer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/andyy67-XD"><img src="https://img.shields.io/badge/GitHub-andyy67--XD-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your_email%40example.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andyy67-XD&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/andyy67-XD?label=Followers&style=social" alt="Followers" />
+</p>
+
+## About me
+
+I’m a passionate developer who loves building useful, elegant, and scalable solutions. I enjoy working with modern technologies, solving real-world problems, and constantly improving my skills.
+
+- 💻 I like coding, experimenting, and learning new tools
+- 🌱 Currently learning: modern web technologies, backend patterns, and clean architecture
+- 🚀 Interested in: product development, automation, APIs, and UX
+- 🤝 Open to collaborations and interesting projects
+
+## Tech stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## GitHub stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andyy67-XD&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyy67-XD&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</div>
+
+## Featured projects
+
+- 🧩 Building cool things and experimenting with ideas
+- 🛠️ Focused on code quality, structure, and maintainability
+- 📦 Enjoys creating projects that are practical and fun to use
+
+## Let’s connect
+
+If you want to collaborate, talk tech, or just say hello, feel free to reach out.
+
+<a href="https://github.com/andyy67-XD">
+  <img src="https://img.shields.io/badge/GitHub-%40andyy67--XD-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+---
+
+<p align="center">
+  <i>“Code is like art — the best work is the one that solves a problem beautifully.”</i>
+</p>
